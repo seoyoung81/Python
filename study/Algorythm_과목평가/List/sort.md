@@ -1,0 +1,2 @@
+## 정렬 
+https://velog.io/@94applekoo/Today-I-Learned-34-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%A0%95%EB%A0%AC%EB%B2%84%EB%B8%94%EC%A0%95%EB%A0%AC-%EC%B9%B4%EC%9A%B4%ED%8C%85%EC%A0%95%EB%A0%AC-%EC%84%A0%ED%83%9D%EC%A0%95%EB%A0%AC-python/
